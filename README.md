@@ -32,7 +32,7 @@ Basic knowledge of REST APIs
 
 Clone the repository:
 
-git clone https://github.com/your-repo/Online-Cpp-Compiler.git
+git clone https://github.com/opyash218/Online-C-Online-Compiler-.git
 cd Online-Cpp-Compiler
 
 ##Install Dependencies:
